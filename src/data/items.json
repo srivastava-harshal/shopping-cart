@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 200.99,
+    "imgUrl": "https://i.pinimg.com/originals/c8/b0/7e/c8b07e380215edaaa1903769586a61dc.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 119999,
+    "imgUrl": "https://images.pexels.com/photos/38568/apple-imac-ipad-workplace-38568.jpeg?cs=srgb&dl=pexels-pixabay-38568.jpg&fm=jpg"
+  },
+  {
+    "id": 3,
+    "name": "Watch",
+    "price": 10000.05,
+    "imgUrl": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2F0Y2h8ZW58MHx8MHx8&w=1000&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Mobile",
+    "price": 24000,
+    "imgUrl": "https://images.unsplash.com/photo-1567581935884-3349723552ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bW9iaWxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  }
+]
